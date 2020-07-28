@@ -3,3 +3,4 @@ Sequence to SQL
 * Project is to predict SQL query for the health status of past week
 * All the sequences are prepared according to past seven days of data
 * Multiple assumptions made for preparing the data and doesnot handle well if word is not present in the sequence
+* Data prepared with respect to walk count or status in past seven days
